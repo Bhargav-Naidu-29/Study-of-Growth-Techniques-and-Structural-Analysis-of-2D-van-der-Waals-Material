@@ -1,0 +1,75 @@
+  data_TaPbSe2
+
+            --------------------------------
+            SYMMETRY INFORMATION ON PHASE: 1
+            --------------------------------
+
+
+ => Symmetry information on space group: P 1                 
+ -> The multiplicity of the general position is:   1
+ -> The space group is Acentric                 
+ -> Lattice type  P: { 000 }                                       
+ -> Reduced set of symmetry operators:
+
+  No.  IT   Symmetry symbol    Rotation part     Associated Translation
+   1: ( 1)   1            -->     ( x, y, z) + {  0.0000  0.0000  0.0000}
+
+
+        Information on Space Group: 
+        --------------------------- 
+
+ =>   Number of Space group:   1
+ =>  Hermann-Mauguin Symbol: P 1
+ =>             Hall Symbol: P 1
+ =>            Setting Type: IT (Generated from Hermann-Mauguin symbol)
+ =>          Crystal System: Triclinic
+ =>              Laue Class: -1
+ =>             Point Group: 1
+ =>         Bravais Lattice: P
+ =>          Lattice Symbol: aP
+ =>  Reduced Number of S.O.:   1
+ =>    General multiplicity:   1
+ =>          Centrosymmetry: Acentric
+ =>  Generators (exc. -1&L):   0
+ =>         Asymmetric unit:  0.000 <= x <=  1.000
+                              0.000 <= y <=  1.000
+                              0.000 <= z <=  1.000
+ => Centring vectors:  0
+                                                                                                    
+
+ => List of all Symmetry Operators and Symmetry Symbols
+
+ => SYMM(  1): x,y,z                             Symbol: 1
+
+       -------------------------------------------------
+       INFORMATION ON SITE SYMMETRY OF ATOMS IN PHASE: 1
+       -------------------------------------------------
+
+
+  -> Information on Atom: Ta0    at position:   -0.06395  -0.00485   0.50763  Multiplicity:   1
+     The above atom is in a general position (no constraints in atom positions)
+
+     --> Complete orbit of the atom: Ta0   
+
+         Ta0(  1)    0.93605  0.99515  0.50763    x,y,z
+
+  -> Information on Atom: Pb1    at position:    0.58586   0.39406   0.00311  Multiplicity:   1
+     The above atom is in a general position (no constraints in atom positions)
+
+     --> Complete orbit of the atom: Pb1   
+
+         Pb1(  1)    0.58586  0.39406  0.00311    x,y,z
+
+  -> Information on Atom: Se2    at position:    0.63035   0.36971   0.32291  Multiplicity:   1
+     The above atom is in a general position (no constraints in atom positions)
+
+     --> Complete orbit of the atom: Se2   
+
+         Se2(  1)    0.63035  0.36971  0.32291    x,y,z
+
+  -> Information on Atom: Se3    at position:    0.63035   0.36971   0.32291  Multiplicity:   1
+     The above atom is in a general position (no constraints in atom positions)
+
+     --> Complete orbit of the atom: Se3   
+
+         Se3(  1)    0.63035  0.36971  0.32291    x,y,z
