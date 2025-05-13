@@ -1,0 +1,1897 @@
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 01:28:02.602                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       0       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02076   3.02076   3.02076  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000194467   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    2.1766   0.0000  -5.8298   0.0000   1.0743   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2211   0.0000   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.128      -2.598       3.884       1.200      -5.859       2.825    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   38.49      54.46      73.44     0.5498    
+RFAC   120.9      98.23      132.5     0.5498        8001
+DEVA  0.2276E+05  2.400     0.1090      1.931    
+RFBR   17.81      20.48      21.16     0.9366    
+RFBC   18.41      21.15      21.86     0.9366           8
+DEVB   6.367     0.7810      64.00    -0.2044    
+BRAG1   18.509    9.008      27.564     100.000     101.850       1.000
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 01:29:33.909                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       0       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02076   3.02076   3.02076  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000194467   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    2.1766   0.0000  -5.8298   0.0000   1.0743   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2211   0.0000   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.128      -2.598       3.884       1.200      -5.859       2.825    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   38.49      54.46      73.44     0.5498    
+RFAC   120.9      98.23      132.5     0.5498        8001
+DEVA  0.2276E+05  2.400     0.1090      1.931    
+RFBR   17.81      20.48      21.16     0.9366    
+RFBC   18.41      21.15      21.86     0.9366           8
+DEVB   6.367     0.7810      64.00    -0.2044    
+BRAG1   18.509    9.008      27.564     100.000     101.850       1.000
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 01:31:22.269                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02076   3.02076   3.02076  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000194467   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    2.1766   0.0000  -5.8298   0.0000   1.0743   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2211   0.0000   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.171      -2.578       3.673       1.295      -5.447       2.610    
+SIGM   0.5371E-01  0.1753      0.5511      0.4542       1.038      0.6716    
+RFAR   29.31      41.87      73.42     0.3252    
+RFAC   113.2      72.16      126.5     0.3252        7995
+DEVA   6241.     0.6778     0.2160E-01  1.932    
+RFBR   37.30      47.34      22.21      4.543    
+RFBC   39.00      49.40      23.17      4.543         170
+DEVB   1637.      9.257     0.7273E-01  1.596    
+BRAG1   35.783   19.169      27.564     100.000     101.850       1.000
+EXRP   51.150   0.573
+REFL     3    3.00    3.00    3.00
+REFP     6    0    0
+SOLV     3.00    3.00    3.00
+SCOR       3.5373
+SCOR1              7.79            7.79            7.79
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:18:47.644                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02076   3.02076   3.02076  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000194467   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    2.1766   0.0000  -5.8298   0.0000   1.0743   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2211   0.0000   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.171      -2.578       3.638       1.295      -5.447       2.574    
+SIGM   0.5383E-01  0.1757      0.5523      0.4552       1.040      0.6731    
+RFAR   27.36      38.92      73.42     0.2811    
+RFAC   95.71      69.49      131.1     0.2811        7995
+DEVA   6122.     0.6586     0.2379E-01  1.932    
+RFBR   37.44      47.45      22.21      4.564    
+RFBC   39.02      49.37      23.11      4.564         170
+DEVB   1657.      9.358     0.6890E-01  1.596    
+BRAG1   36.002   19.432      27.564     100.000     101.850       1.000
+EXRP   50.633   0.540
+REFL     3    3.00    3.00    3.00
+REFP     6    0    0
+SOLV     3.00    3.00    3.00
+SCOR       3.5499
+SCOR1              7.83            7.83            7.83
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:20:37.768                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02425   3.02425   3.02425  90.00000  90.00000  90.00000
+SIGM    0.00007   0.00007   0.00007   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000295337   0.000006969
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    2.1766   0.0000  -5.8298   0.0000   1.0743   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2211   0.0000   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.167      -2.580       3.628       1.281      -5.487       2.569    
+SIGM   0.3199E-01  0.1044      0.3282      0.2705      0.6182      0.3999    
+RFAR   22.17      33.04      73.40     0.2026    
+RFAC   70.70      59.65      132.5     0.2026        7992
+DEVA   4845.     0.5136     0.4044E-01  1.933    
+RFBR   21.88      27.94      22.01      1.611    
+RFBC   22.73      28.99      22.84      1.611         167
+DEVB   377.1      2.173     0.2435      1.633    
+BRAG1    6.546    4.587      27.660     100.000     101.850       1.000
+EXRP   51.164   0.433
+REFL     3    3.00    3.00    3.00
+REFP     6    3    0
+SOLV     3.00    3.00    3.00
+SCOR       3.0512
+SCOR1              3.61            3.61            3.61
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:21:49.730                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02425   3.02425   3.02425  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000295337   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    0.0040   0.0000  -0.0070   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2211   0.0000   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.135      -2.595       3.867       1.194      -5.807       2.830    
+SIGM   0.2520E-01  0.8222E-01  0.2585      0.2131      0.4870      0.3151    
+RFAR   16.82      22.01      73.42     0.8989E-01
+RFAC   56.88      39.40      131.4     0.8989E-01    7995
+DEVA   869.2     0.9350E-01 0.4793E-01  1.932    
+RFBR   21.18      27.08      31.81     0.7246    
+RFBC   23.07      29.22      34.33     0.7246         504
+DEVB   522.4     0.9575     0.9433E-01  1.747    
+BRAG1   12.418    8.010      27.660     100.000     101.850       1.000
+EXRP   51.780   0.325
+REFL     4    4.00    4.00    4.00
+REFP     6    0    0
+SOLV     4.00    4.00    4.00
+SCOR       5.2744
+SCOR1              6.84            6.84            6.84
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:22:21.828                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02523   3.02523   3.02523  90.00000  90.00000  90.00000
+SIGM    0.00008   0.00008   0.00008   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000323893   0.000005038
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    0.2015   0.0174  -0.0070   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2211   0.0000   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.119      -2.603       3.943       1.143      -5.971       2.920    
+SIGM   0.2523E-01  0.8223E-01  0.2587      0.2131      0.4872      0.3152    
+RFAR   12.72      16.55      73.40     0.5087E-01
+RFAC   39.29      29.84      132.3     0.5087E-01    7992
+DEVA   462.5     0.4905E-01 0.7638E-01  1.933    
+RFBR   13.00      17.81      31.71     0.3153    
+RFBC   14.07      19.13      34.06     0.3153         501
+DEVB   182.9     0.3389     0.1966      1.759    
+BRAG1    6.359    5.116      27.687     100.000     101.850       1.000
+EXRP   51.577   0.247
+REFL     4    4.00    4.00    4.00
+REFP     6    3    0
+SOLV     4.00    4.00    4.00
+SCOR       4.4403
+SCOR1              7.30            7.30            7.30
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:23:00.658                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02528   3.02528   3.02528  90.00000  90.00000  90.00000
+SIGM    0.00008   0.00008   0.00008   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000325484   0.000005018
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    0.1649   0.0789   0.0155   0.0337   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2211   0.0000   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.092      -2.609       4.154       1.021      -6.272       3.196    
+SIGM   0.2526E-01  0.8223E-01  0.2588      0.2132      0.4874      0.3154    
+RFAR   12.91      16.90      73.40     0.5302E-01
+RFAC   41.99      30.24      131.3     0.5302E-01    7991
+DEVA   410.4     0.4415E-01 0.7673E-01  1.933    
+RFBR   13.27      18.62      52.36     0.1265    
+RFBC   16.73      21.58      60.66     0.1265        1625
+DEVB   209.5     0.1111     0.1582      1.858    
+BRAG1    4.729    3.614      27.688     100.000     101.850       1.000
+EXRP   51.576   0.250
+REFL     4    4.00    4.00    4.00
+REFP     6    4    0
+SOLV     4.00    4.00    4.00
+SCOR       4.5227
+SCOR1              7.31            7.31            7.31
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:23:40.680                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02535   3.02535   3.02535  90.00000  90.00000  90.00000
+SIGM    0.00008   0.00008   0.00008   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000338382   0.000005331
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW   -0.0174   0.0269   0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.3735   0.0218   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.059      -2.620       4.363      0.9098      -6.624       3.427    
+SIGM   0.2557E-01  0.8224E-01  0.2602      0.2136      0.4892      0.3169    
+RFAR   10.83      13.85      73.40     0.3563E-01
+RFAC   32.62      24.89      131.8     0.3563E-01    7991
+DEVA   303.3     0.3227E-01 0.1060      1.933    
+RFBR   10.42      14.76      52.19     0.7998E-01
+RFBC   12.81      17.05      60.30     0.7998E-01    1615
+DEVB   147.6     0.7830E-01 0.2336      1.858    
+BRAG1    5.760    3.858      27.690     100.000     101.850       1.000
+EXRP   51.399   0.211
+REFL     4    4.00    4.00    4.00
+REFP     6    4    0
+SOLV     4.00    4.00    4.00
+SCOR       3.9760
+SCOR1             11.09           11.09           11.09
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:24:21.520                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02535   3.02535   3.02535  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000338382   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    0.0174   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.3735   0.0000   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.112      -2.604       4.042       1.110      -6.057       3.042    
+SIGM   0.2520E-01  0.8222E-01  0.2585      0.2131      0.4870      0.3151    
+RFAR   14.27      20.29      73.42     0.7640E-01
+RFAC   49.56      35.80      129.5     0.7640E-01    7995
+DEVA   576.3     0.6225E-01 0.5735E-01  1.932    
+RFBR   10.95      14.97      31.85     0.2210    
+RFBC   11.93      16.16      34.37     0.2210         504
+DEVB   128.5     0.2389     0.3145      1.747    
+BRAG1    6.384    4.397      27.690     100.000     101.850       1.000
+EXRP   51.318   0.278
+REFL     4    4.00    4.00    4.00
+REFP     6    0    0
+SOLV     4.00    4.00    4.00
+SCOR       3.9136
+SCOR1              7.58            7.58            7.58
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:24:41.519                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02535   3.02535   3.02535  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000338382   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    0.0174   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.3735   0.0000   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.112      -2.604       4.019       1.110      -6.057       3.015    
+SIGM   0.2520E-01  0.8222E-01  0.2585      0.2131      0.4870      0.3151    
+RFAR   12.97      17.02      73.42     0.5375E-01
+RFAC   42.30      30.54      131.7     0.5375E-01    7995
+DEVA   465.4     0.4988E-01 0.7737E-01  1.932    
+RFBR   11.03      15.10      31.85     0.2247    
+RFBC   11.96      16.25      34.27     0.2247         504
+DEVB   132.8     0.2465     0.2935      1.747    
+BRAG1    6.723    4.685      27.690     100.000     101.850       1.000
+EXRP   51.046   0.254
+REFL     4    4.00    4.00    4.00
+REFP     6    0    0
+SOLV     4.00    4.00    4.00
+SCOR       4.0324
+SCOR1              8.05            8.05            8.05
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:25:27.790                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02082  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00016
+CELL    3.02535   3.02535   3.02535  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000338382   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    0.0174   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.3735   0.0000   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.112      -2.604       4.007       1.110      -6.055       3.000    
+SIGM   0.2523E-01  0.8223E-01  0.2586      0.2131      0.4872      0.3152    
+RFAR   12.42      16.10      73.41     0.4809E-01
+RFAC   39.33      28.99      132.2     0.4809E-01    7994
+DEVA   435.3     0.4642E-01 0.8435E-01  1.932    
+RFBR   11.07      15.19      31.82     0.2280    
+RFBC   11.99      16.32      34.19     0.2280         503
+DEVB   135.5     0.2517     0.2827      1.751    
+BRAG1    6.935    4.869      27.690     100.000     101.723       1.000
+EXRP   50.577   0.246
+REFL     4    4.00    4.00    4.00
+REFP     6    0    1
+SOLV     4.00    4.00    4.00
+SCOR       4.0956
+SCOR1              9.56            9.56            9.56
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:25:54.117                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000  -0.12789   0.02082  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.08911   0.00000
+CELL    3.02535   3.02535   3.02535  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000338382   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    0.0174   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.3735   0.0000   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.111      -2.604       4.005       1.101      -6.071       3.003    
+SIGM   0.2521E-01  0.8222E-01  0.2586      0.2132      0.4871      0.3152    
+RFAR   12.16      15.72      73.41     0.4587E-01
+RFAC   37.49      28.33      132.3     0.4587E-01    7994
+DEVA   419.9     0.4454E-01 0.8682E-01  1.932    
+RFBR   11.24      15.14      31.82     0.2265    
+RFBC   12.14      16.25      34.14     0.2265         503
+DEVB   130.8     0.2428     0.2795      1.751    
+BRAG1    6.598    4.275      27.690     100.000     101.752       1.000
+EXRP   51.630   0.236
+REFL     4    4.00    4.00    4.00
+REFP     6    0    1
+SOLV     4.00    4.00    4.00
+SCOR       3.9913
+SCOR1              8.98            8.98            8.98
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:26:34.693                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.12789   0.02082  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02535   3.02535   3.02535  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000338382   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    0.0174   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.3735   0.0000   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.113      -2.604       3.997       1.119      -6.042       2.988    
+SIGM   0.2520E-01  0.8222E-01  0.2585      0.2131      0.4870      0.3151    
+RFAR   12.13      15.90      73.42     0.4692E-01
+RFAC   37.32      28.65      132.3     0.4692E-01    7995
+DEVA   440.9     0.4673E-01 0.8401E-01  1.932    
+RFBR   11.17      15.71      31.85     0.2435    
+RFBC   12.07      16.86      34.17     0.2435         504
+DEVB   151.8     0.2808     0.2568      1.747    
+BRAG1    7.748    5.988      27.690     100.000     101.752       1.000
+EXRP   51.696   0.235
+REFL     4    4.00    4.00    4.00
+REFP     6    0    0
+SOLV     4.00    4.00    4.00
+SCOR       4.4490
+SCOR1              9.51            9.51            9.51
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:27:09.395                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.12789   0.02082  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02532   3.02532   3.02532  90.00000  90.00000  90.00000
+SIGM    0.00008   0.00008   0.00008   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000346098   0.000005578
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    0.0238   0.0261  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.3908   0.0235   0.0002   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.113      -2.604       3.997       1.119      -6.042       2.988    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   12.19      15.90      73.43     0.4688E-01
+RFAC   38.03      28.65      132.3     0.4688E-01    7997
+DEVA   432.0     0.4592E-01 0.8580E-01  1.932    
+RFBR   11.00      15.38      31.91     0.2322    
+RFBC   11.90      16.51      34.26     0.2322         506
+DEVB   140.9     0.2604     0.2738      1.739    
+BRAG1    7.453    5.413      27.690     100.000     101.752       1.000
+EXRP   51.743   0.236
+REFL     4    4.00    4.00    4.00
+REFP     0    4    0
+SOLV     4.00    4.00    4.00
+SCOR       4.3110
+SCOR1              9.15            9.15            9.15
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:28:07.684                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.12789   0.02082  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02534   3.02534   3.02534  90.00000  90.00000  90.00000
+SIGM    0.00008   0.00008   0.00008   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000344512   0.000005569
+SHAP   0.00000  0.00000
+BOVE    0.8800   0.0000
+HUVW    0.0395   0.0293  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0839   0.0432   0.0305
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.113      -2.604       3.997       1.119      -6.042       2.988    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   12.23      15.68      73.42     0.4560E-01
+RFAC   38.15      28.25      132.3     0.4560E-01    7996
+DEVA   412.3     0.4387E-01 0.8741E-01  1.932    
+RFBR   11.55      15.49      33.62     0.2122    
+RFBC   12.60      16.73      36.31     0.2122         570
+DEVB   142.8     0.2321     0.2635      1.757    
+BRAG1    6.756    5.074      27.690     100.000     101.752       1.000
+EXRP   51.104   0.239
+REFL     4    4.00    4.00    4.00
+REFP     0    5    0
+SOLV     4.00    4.00    4.00
+SCOR       4.2314
+SCOR1              8.86            8.86            8.86
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:28:35.231                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.12789   0.02082  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02534   3.02534   3.02534  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000311605   0.000010135
+SHAP   0.00000  0.00000
+BOVE    0.2219   0.1811
+HUVW    0.0395   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.113      -2.604       3.997       1.119      -6.042       2.988    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   11.55      14.37      73.44     0.3831E-01
+RFAC   36.04      25.90      132.3     0.3831E-01    7999
+DEVA   317.0     0.3379E-01 0.1011      1.931    
+RFBR   10.93      14.18      39.80     0.1270    
+RFBC   12.36      15.68      44.01     0.1270         846
+DEVB   117.1     0.1251     0.2883      1.790    
+BRAG1    4.383    3.165      27.690     100.000     101.752       1.000
+EXRP   50.787   0.227
+REFL     4    4.00    4.00    4.00
+REFP     0    2    0
+SOLV     4.00    4.00    4.00
+SCOR       3.7325
+SCOR1              6.85            6.85            6.85
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:29:11.734                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       7       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.12789   0.02082  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02534   3.02534   3.02534  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000003116   0.000000000
+SHAP   0.00000  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0395   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.113      -2.604       3.997       1.119      -6.042       2.988    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   39.16      54.97      73.44     0.5602    
+RFAC   122.2      99.07      132.4     0.5602        8001
+DEVA  0.2082E+05  2.195     0.7255E-02  1.931    
+RFBR   87.61      89.55      39.85      5.051    
+RFBC   99.04      99.03      44.06      5.051         848
+DEVB  0.2062E+05  19.81     0.7592E-02  1.786    
+BRAG1   99.022   90.187      27.690     100.000     101.752       1.000
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:32:00.212                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I M -3 M            
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.12789   0.02082  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02534   3.02534   3.02534  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000003116   0.000000000
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0395   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.113      -2.604       3.997       1.119      -6.042       2.988    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   39.36      55.56      73.44     0.5723    
+RFAC   122.8      100.1      132.4     0.5723        8001
+DEVA  0.2194E+05  2.358     0.7456E-02  1.931    
+RFBR   91.60      92.94      33.54      7.680    
+RFBC   99.64      100.1      36.13      7.680         562
+DEVB  0.2164E+05  42.55     0.7909E-02  1.736    
+BRAG1   99.853   96.653      27.690     100.000     101.752       1.000
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:32:50.628                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I M -3 M            
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.12789   0.02082  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02534   3.02534   3.02534  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000003116   0.000000000
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0395   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    0.000       0.000       0.000       0.000       0.000       0.000    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   99.89      99.94      73.44      1.852    
+RFAC   99.89      99.94      73.44      1.852        8001
+DEVA  0.2267E+05  0.000     0.8540E-03  1.931    
+RFBR   99.67      99.84      33.54      8.863    
+RFBC   99.67      99.84      33.54      8.863         562
+DEVB  0.2267E+05        NaN 0.2540E-02  1.736    
+BRAG1   99.864   96.893      27.690     100.000     101.752       1.000
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:35:42.183                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I M -3 M            
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.12789   1.00000  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02534   3.02534   3.02534  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000003116   0.000000000
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0395   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    0.000       0.000       0.000       0.000       0.000       0.000    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   3905.      7696.      73.44     0.1098E+05
+RFAC   3905.      7696.      73.44     0.1098E+05    8001
+DEVA  0.2117E+05  0.000     0.2613E-01  1.931    
+RFBR  0.1139E+05 0.1326E+05  33.54     0.1563E+06
+RFBC  0.1139E+05 0.1326E+05  33.54     0.1563E+06     562
+DEVB  0.2117E+05        NaN 0.2613E-01  1.736    
+BRAG1  649.109  159.603      27.690     100.000  234737.969       1.000
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:37:45.750                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I M -3 M            
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02534   3.02534   3.02534  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000003116   0.000000000
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0395   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    0.000       0.000       0.000       0.000       0.000       0.000    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   99.89      99.95      73.44      1.852    
+RFAC   99.89      99.95      73.44      1.852        8001
+DEVA  0.2245E+05  0.000     0.8569E-03  1.931    
+RFBR   99.67      99.84      33.54      8.864    
+RFBC   99.67      99.84      33.54      8.864         562
+DEVB  0.2245E+05        NaN 0.2549E-02  1.736    
+BRAG1   99.861   96.844      27.690     100.000     101.850       1.000
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:38:19.875                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02534   3.02534   3.02534  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000003116   0.000000000
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0395   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    0.000       0.000       0.000       0.000       0.000       0.000    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   99.89      99.95      73.44      1.852    
+RFAC   99.89      99.95      73.44      1.852        8001
+DEVA  0.2245E+05  0.000     0.8569E-03  1.931    
+RFBR   99.67      99.84      33.54      8.864    
+RFBC   99.67      99.84      33.54      8.864         562
+DEVB  0.2245E+05        NaN 0.2549E-02  1.736    
+BRAG1   99.861   96.844      27.690     100.000     101.850       1.000
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:38:53.108                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02534   3.02534   3.02534  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000311610   0.000000000
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0395   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    0.000       0.000       0.000       0.000       0.000       0.000    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   238.4      354.5      73.44      23.29    
+RFAC   238.4      354.5      73.44      23.29        8001
+DEVA -0.2026E+05  0.000     0.2502E-01  1.931    
+RFBR   510.9      594.4      33.54      314.1    
+RFBC   510.9      594.4      33.54      314.1         562
+DEVB -0.2026E+05        NaN 0.2641E-01  1.736    
+BRAG1   86.071   68.443      27.690     100.000     101.850       1.000
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:39:26.968                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02534   3.02534   3.02534  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000000327   0.000002038
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0395   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK   0.9264       0.000       0.000       0.000       0.000       0.000    
+SIGM   0.2943E-01   0.000       0.000       0.000       0.000       0.000    
+RFAR   65.68      70.75      73.44     0.9282    
+RFAC   131.3      100.0      103.8     0.9282        7999
+DEVA  0.3032E+05  3.213     0.4749E-02  1.931    
+RFBR   89.64      91.45      33.48      7.463    
+RFBC   100.1      100.0      36.62      7.463         560
+DEVB  0.2492E+05  37.88     0.8437E-02  1.743    
+BRAG1   99.954   98.072      27.690     100.000     101.850       1.000
+EXRP   51.608   1.273
+REFL     3    3.00    3.00    3.00
+REFP     1    1    0
+SOLV     3.00    3.00    3.00
+SCOR       8.2179
+SCOR1             11.38           11.38           11.38
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:40:17.503                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m -3 m            
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02534   3.02534   3.02534  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000000023   0.000002033
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0395   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK   0.9260       0.000       0.000       0.000       0.000       0.000    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   65.70      70.74      73.44     0.9278    
+RFAC   131.3      100.0      103.8     0.9278        8000
+DEVA  0.2993E+05  3.170     0.4713E-02  1.931    
+RFBR   89.71      91.43      33.51      7.447    
+RFBC   100.1      100.0      36.65      7.447         561
+DEVB  0.2453E+05  36.96     0.8375E-02  1.740    
+BRAG1   99.984   98.861      27.690     100.000     101.850       1.000
+EXRP   51.115   1.285
+REFL     3    3.00    3.00    3.00
+REFP     0    1    0
+SOLV     3.00    3.00    3.00
+SCOR       8.2629
+SCOR1             11.40           11.40           11.40
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:42:46.228                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m -3 m            
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02534   3.02534   3.02534  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.002299800   0.000000000
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0395   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK   0.9260       0.000       0.000       0.000       0.000       0.000    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   1298.      2536.      73.44      1192.    
+RFAC   2594.      3584.      103.8      1192.        8001
+DEVA -0.1247E+05 -1.335     0.2603E-01  1.931    
+RFBR   3748.      4368.      33.54     0.1696E+05
+RFBC   4183.      4777.      36.68     0.1696E+05     562
+DEVB -0.1787E+05 -31.70     0.2604E-01  1.736    
+BRAG1  182.041   77.379      27.690     100.000     101.850       1.000
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:43:11.908                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m -3 m            
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02534   3.02534   3.02534  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000229980   0.000000000
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0395   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK   0.9260       0.000       0.000       0.000       0.000       0.000    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   165.4      263.4      73.44      12.86    
+RFAC   330.4      372.4      103.8      12.86        8001
+DEVA -0.1185E+05 -1.268     0.2520E-01  1.931    
+RFBR   385.6      446.6      33.54      177.4    
+RFBC   430.4      488.5      36.68      177.4         562
+DEVB -0.1725E+05 -30.11     0.2602E-01  1.736    
+BRAG1   88.618   69.789      27.690     100.000     101.850       1.000
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:43:41.905                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m -3 m            
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02500   3.02500   3.02500  90.00000  90.00000  90.00000
+SIGM    0.00078   0.00078   0.00078   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000001439   0.000001511
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0082   0.0077  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK   0.9260       0.000       0.000       0.000       0.000       0.000    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   65.62      70.71      73.43     0.9274    
+RFAC   131.1      99.97      103.8     0.9274        7998
+DEVA  0.2532E+05  2.687     0.4994E-02  1.931    
+RFBR   89.48      91.37      33.45      7.463    
+RFBC   99.89      99.94      36.58      7.463         559
+DEVB  0.1992E+05  30.92     0.8878E-02  1.747    
+BRAG1   99.710   95.185      27.681     100.000     101.850       1.000
+EXRP   51.793   1.267
+REFL     3    3.00    3.00    3.00
+REFP     0    3    0
+SOLV     3.00    3.00    3.00
+SCOR       8.2009
+SCOR1             41.41           41.41           41.41
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:44:23.011                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:45:38.454                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02500   3.02500   3.02500  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000143860   0.000000000
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0082   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.146      -2.263       3.810       1.354      -4.972       2.585    
+SIGM   0.5851       1.909       6.003       4.948       11.31       7.316    
+RFAR   97.88      201.8      73.42      7.552    
+RFAC  -3200.      149.2      54.28      7.552        7995
+DEVA  -1194.    -0.1352     0.5622      1.932    
+RFBR   225.5      344.9      14.85      539.2    
+RFBC   231.6      354.0      15.24      539.2          67
+DEVB -0.1004E+05 -149.2     0.9396      1.436    
+BRAG1   86.693   69.128      27.681     100.000     101.850       1.000
+EXRP   52.176   1.876
+REFL     3    3.00    3.00    3.00
+REFP     6    0    0
+SOLV     3.00    3.00    3.00
+SCOR       2.2553
+SCOR1              2.04            2.04            2.04
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 11:46:14.555                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02500   3.02500   3.02500  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000000000   0.000001323
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0082   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.187      -2.569       3.503       1.386      -5.263       2.373    
+SIGM   0.1667      0.5441       1.711       1.410       3.223       2.085    
+RFAR   39.73      55.39      73.41     0.5693    
+RFAC   130.9      100.0      132.5     0.5693        7994
+DEVA  0.2327E+05  2.471     0.7412E-02  1.932    
+RFBR   97.51      97.53      14.74      43.78    
+RFBC   100.0      100.0      15.11      43.78          66
+DEVB  0.1801E+05  231.4     0.1167E-01  1.468    
+BRAG1  100.000   99.989      27.681     100.000     101.850       1.000
+EXRP   52.053   0.763
+REFL     3    3.00    3.00    3.00
+REFP     6    1    0
+SOLV     3.00    3.00    3.00
+SCOR       7.1708
+SCOR1              9.59            9.59            9.59
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 15:05:10.301                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02500   3.02500   3.02500  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000000000   0.000000662
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0082   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    1.187      -2.570       3.502       1.386      -5.264       2.372    
+SIGM   0.1667      0.5441       1.711       1.410       3.223       2.085    
+RFAR   39.65      55.38      73.41     0.5691    
+RFAC   129.8      100.0      132.6     0.5691        7994
+DEVA  0.2330E+05  2.471     0.7380E-02  1.932    
+RFBR   97.51      97.54      14.74      43.78    
+RFBC  100.00      100.0      15.11      43.78          66
+DEVB  0.1802E+05  231.4     0.1162E-01  1.468    
+BRAG1  100.000   99.989      27.681     100.000     101.850       1.000
+EXRP   51.251   0.774
+REFL     3    3.00    3.00    3.00
+REFP     6    1    0
+SOLV     3.00    3.00    3.00
+SCOR       7.1709
+SCOR1              9.59            9.59            9.59
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 22/04/2025  Time: 15:07:31.883                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       4       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     1
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR P 1                 
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02500   3.02500   3.02500  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.001000000   0.000000000
+SHAP   0.00001  0.00000
+BOVE    0.2219   0.0000
+HUVW    0.0082   0.0000  -0.0155   0.0000   0.0060   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.2821   0.0000   0.0432   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE    0.0000   0.0000   0.0000   0.0000
+ZERO   -0.05861   0.00000
+BACK    0.000       0.000       0.000       0.000       0.000       0.000    
+SIGM    0.000       0.000       0.000       0.000       0.000       0.000    
+RFAR   100.0      100.0      73.44      1.854    
+RFAC   100.0      100.0      73.44      1.854        8001
+DEVA  0.3571E+05  0.000     0.7881E-03  1.931    
+RFBR   100.0      100.0      25.50      15.39    
+RFBC   100.0      100.0      25.50      15.39         210
+DEVB  0.3571E+05        NaN 0.3617E-02  1.566    
+BRAG1   99.964   98.811      27.681     100.000       0.022       1.000
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 14/05/2025  Time: 01:05:29.896                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       0       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    1     0     2     0     1     1     4     1     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     0
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    1     0     2     1     4     1
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     0
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02400   3.02400   3.02400  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000278911   0.000004539
+SHAP   1.98530  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.1184   0.0000  -0.0865   0.0000   0.0224   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0054   0.0000   0.0000   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0018   0.0002   0.0000   0.0000
+ZERO   -0.06283   0.00137
+BACK    296.1       0.000       0.000       0.000       0.000       0.000    
+SIGM   0.1079E-01   0.000       0.000       0.000       0.000       0.000    
+RFAR   73.97      83.16      73.43      1.283    
+RFAC   73.97      83.16      73.43      1.283        7997
+DEVA   601.4      0.000     0.4728E-02  1.932    
+RFBR   22.56      28.70      34.08     0.7090    
+RFBC   22.56      28.70      34.08     0.7090         579
+DEVB   601.4            NaN 0.1181      1.755    
+BRAG1   15.049   10.645      27.653     100.000     101.850       1.000
+--------------------------------------------------------------------------------
+TITL  Second edition. Interscience Publishers, New York, New York
+FILES => PCR-file : AMS_DATA_Vanadium
+FILES => DAT-files: vanadium                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+DATE & TIME     Date: 14/05/2025  Time: 01:06:27.701                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       1       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     0       5       0       0       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       0       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    1     0     2     0     1     1     4     1     0     3
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    0     1     1     0     0     0     0
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     0
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    1     0     2     1     4     1
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    3     0     0     0     0
+DATT        0   0        0.00
+PHAS1 Second edition. Interscience P
+SPGR I m 3 m             
+NATM    1
+COND    0   0   0   0
+ATOM V        0.00000   0.00000   0.00000   0.00000   0.02083  0  0    0
+SIGM        0.00000   0.00000   0.00000   0.00000   0.00000
+CELL    3.02400   3.02400   3.02400  90.00000  90.00000  90.00000
+SIGM    0.00000   0.00000   0.00000   0.00000   0.00000   0.00000
+NNVK     0
+SCAL    0.000278911   0.000004539
+SHAP   1.98530  0.00000
+BOVE    0.0000   0.0000
+HUVW    0.1184   0.0000  -0.0865   0.0000   0.0224   0.0000
+PREF    0.0000   0.0000   0.0000   0.0000
+ASYM    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+XYPA    0.0054   0.0000   0.0000   0.0000
+STRA    0.0000   0.0000   0.0000   0.0000   0.0000   0.0000
+SIZE   -0.0018   0.0002   0.0000   0.0000
+ZERO   -0.06284   0.00137
+BACK    304.9       0.000       0.000       0.000       0.000       0.000    
+SIGM   0.1079E-01   0.000       0.000       0.000       0.000       0.000    
+RFAR   73.97      83.16      73.43      1.283    
+RFAC   73.97      83.16      73.43      1.283        7997
+DEVA   601.4      0.000     0.4728E-02  1.932    
+RFBR   22.56      28.70      34.08     0.7091    
+RFBC   22.56      28.70      34.08     0.7091         579
+DEVB   601.4            NaN 0.1181      1.755    
+BRAG1   15.049   10.645      27.653     100.000     101.850       1.000
+--------------------------------------------------------------------------------
