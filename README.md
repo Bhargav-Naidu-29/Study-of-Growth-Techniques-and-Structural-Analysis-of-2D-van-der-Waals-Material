@@ -2,79 +2,105 @@
 
 ## 📘 Overview
 
-This project explores the structural analysis of **two-dimensional (2D) van der Waals (vdW) materials**, with a specific focus on **PbTaSe₂**, a layered material known for its **noncentrosymmetric structure** and potential **topological superconductivity**. Due to limited access to synthesis infrastructure, the study focuses on the **characterization and refinement** of experimental X-ray diffraction (XRD) data using open-source crystallographic tools.
-
-## 🧪 Objectives
-
-- Understand and apply synthesis techniques used for single-crystal growth of vdW materials.
-- Perform phase identification using **Match! software**.
-- Refine XRD data using the **FullProf suite**, incorporating corrections for **texture, contamination**, and **instrumental artifacts**.
-- Compare experimental results with reference datasets from the **Materials Project**.
-
-## 🔧 Tools and Technologies
-
-- 🧬 **FullProf Suite** (Rietveld refinement)
-- 🔍 **Match!** (Phase identification)
-- 📊 **Origin** (Data cleaning and preprocessing)
-- 📚 **Crystallographic Open Database (COD)** and **Materials Project**
-- 🧾 **LaTeX** (Report writing)
-- 🖼️ Python, Canva, GitHub for documentation and sharing
-
-## 🧱 Methodology
-
-### 1. Sample Preparation
-- Used Vanadium (standard) and PbTaSe₂ (target sample).
-- Powdered samples using agate mortar and pestle for uniformity.
-
-### 2. XRD Data Collection
-- Data collected in the 2θ range of 10° to 90°, with a step size of 0.01°.
-
-### 3. Phase Identification (Match!)
-- Validated phase and space group using database comparisons.
-  
-![Phase Identification](figures/PhaseMatchPbTaSe2.png)
-
-### 4. FullProf Refinement
-- Applied Rietveld refinement to fit experimental patterns.
-- Addressed:
-  - **Preferred orientation** using March–Dollase correction.
-  - **Ghost peaks** from Kβ radiation using Bragg’s condition filtering.
-  - **Contamination peaks** (oil) removed using Origin.
-
-| Parameter              | Experimental  | Reference (Materials Project) |
-|------------------------|---------------|-------------------------------|
-| Crystal System         | Trigonal      | Trigonal                      |
-| Space Group            | P$\bar{3}$m1  | P$\bar{3}$m1                  |
-| Lattice Parameter \(a\)| 3.44 Å        | 3.435 Å                       |
-| Lattice Parameter \(c\)| 9.38 Å        | 9.365 Å                       |
-| Refined χ² Value       | 18.3          | N/A                           |
-
-### 🔬 Graphs
-
-**Vanadium (Standard Reference):**
-
-![Vanadium XRD](figures/VanadiumFullProf.png)
-
-**PbTaSe₂ (Target Material):**
-
-![PbTaSe2 XRD](figures/PbTaSe2FullProf.png)
-
-**Texture Representation:**
-
-![Texture Effect](figures/texture.png)
-
-## 🧠 Key Learnings
-
-- Gained hands-on expertise in **crystallographic analysis** using FullProf and Match!.
-- Understood and resolved challenges in refinement due to **sample texturing**, **instrument limitations**, and **contaminants**.
-- Demonstrated how refinement outcomes differ from standard values and the significance of phase validation.
-
-## 📌 Conclusion
-
-The project demonstrates the potential of **computational crystallography** in characterizing complex vdW materials in the absence of full synthesis setups. PbTaSe₂ was successfully refined with experimental values aligning closely to theoretical data, and issues such as texture and ghost peaks were resolved methodically.
+This project focuses on the structural analysis of **2D van der Waals (vdW) materials**, particularly **PbTaSe₂**, using experimental XRD data. The project emphasizes the refinement process and crystallographic characterization in the absence of synthesis infrastructure, applying advanced tools like FullProf and Match! for data analysis.
 
 ---
 
-> **Supervisor:** Dr. Ritu Gupta  
-> **Course Code:** CP301  
-> **Author:** Bhargav Naidu Palavalasa
+## 🧪 Objectives
+
+- Analyze PbTaSe₂ crystal structure using powder XRD data.
+- Perform phase identification via **Match!** software.
+- Refine diffraction data using **FullProf**, addressing challenges like texture and impurity peaks.
+- Compare experimental parameters with reference datasets from the **Materials Project**.
+
+---
+
+## 🔧 Tools and Technologies
+
+- 🔍 **Match!** for phase identification  
+- 🧬 **FullProf Suite** for Rietveld refinement  
+- 📊 **Origin** for data preprocessing and filtering  
+- 🧾 **Crystallographic Databases**: COD, Materials Project  
+- 🖋️ **LaTeX** for report documentation  
+
+---
+
+## 🧱 Methodology
+
+### 📌 Sample Preparation & XRD Scanning
+- Vanadium used as a standard sample; PbTaSe₂ as the primary target.
+- Powdered samples scanned using a Cu X-ray source (40 kV, 30 mA).
+- Scan Range: 10°–90°  | Step Size: 0.01°  | Format: `.xy`
+
+### 🔎 Phase Identification
+- Match! software matched PbTaSe₂ to space group **P$\bar{3}$m1** from the Materials Project.
+
+![Phase Identification (Match!)](graphs/pbtase2_Pattern.png)
+
+---
+
+## ⚙️ Refinement Using FullProf
+
+- Applied Rietveld refinement on both Vanadium and PbTaSe₂.
+- Corrected for texture using **March–Dollase** model.
+- Removed oil contamination peaks with **Origin**.
+- Excluded ghost peaks from Kβ radiation using **Bragg’s Law validation**.
+
+**Vanadium (Standard Sample):**
+
+![Vanadium FullProf Refinement](graphs/VanadiumFullProf.png)
+
+**PbTaSe₂ Final Refinement:**
+
+![PbTaSe₂ FullProf Refinement](graphs/PbTaSe2FullProf.png)
+
+---
+
+## 📐 Texture Representation and Comparison
+
+Texture (preferred orientation) was observed along the \( l \)-direction in PbTaSe₂, leading to intensity distortions. Below is a comparison of the database vs experimental data to show the impact:
+
+<table>
+<tr>
+<td align="center"><strong>Database Reference</strong></td>
+<td align="center"><strong>Experimental Data</strong></td>
+</tr>
+<tr>
+<td><img src="graphs/PbTaSe2Database.png" width="100%"></td>
+<td><img src="graphs/PbTaSe2Original.png" width="100%"></td>
+</tr>
+</table>
+
+---
+
+## 📊 Results Summary
+
+| Parameter               | Experimental     | Materials Project |
+|------------------------|------------------|-------------------|
+| Crystal System         | Trigonal         | Trigonal          |
+| Space Group            | P$\bar{3}$m1     | P$\bar{3}$m1      |
+| Lattice Parameter \(a\)| 3.44 Å           | 3.435 Å           |
+| Lattice Parameter \(c\)| 9.38 Å           | 9.365 Å           |
+| Refined χ² Value       | 18.3             | N/A               |
+
+---
+
+## 🧠 Key Learnings
+
+- Developed end-to-end crystallographic analysis skills from XRD data to final refinement.
+- Understood and corrected practical issues: texture, impurity, and Kβ radiation effects.
+- Validated experimental lattice parameters against reference datasets successfully.
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates how open-source tools can be leveraged for high-accuracy structural analysis of complex 2D materials. Despite limited synthesis infrastructure, key crystallographic properties of PbTaSe₂ were successfully identified, refined, and validated against standard databases.
+
+---
+
+> **Supervisor**: Dr. Ritu Gupta  
+> **Course Code**: CP301  
+> **Author**: Bhargav Naidu Palavalasa  
+> [🔗 GitHub Repository](https://github.com/Bhargav-Naidu-29/Growth-Techniques-and-Structural-Analysis-of-2D-van-der-Waals-Materials)
+
